@@ -23,6 +23,23 @@ namespace LoopPractice
             //     Do somethings
             //   }
 
+            //for (int i = 0; i <= 10; i++)
+            //{
+            //    Console.WriteLine(i);
+            //}
+
+
+            
+            //for (int i = 15; i > 0; i--)
+            //{
+            //    Console.WriteLine(i);
+            //}
+            
+
+            for (int i =50;i<=100;i++)
+            {
+                Console.WriteLine(i);
+            }
         }
     }
 }
